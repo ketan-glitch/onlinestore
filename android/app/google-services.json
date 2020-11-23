@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196696340439",
+    "firebase_url": "https://basiconlinestore-e2002.firebaseio.com",
+    "project_id": "basiconlinestore-e2002",
+    "storage_bucket": "basiconlinestore-e2002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196696340439:android:bc764dd0bb718319ffbd92",
+        "android_client_info": {
+          "package_name": "com.ktn.onlinestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196696340439-bneaeocn9lcdm5cebol8na402t9isbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1z8nqVrrsxYX3tiXXNLiPWXRMraIXIYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196696340439-bneaeocn9lcdm5cebol8na402t9isbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
