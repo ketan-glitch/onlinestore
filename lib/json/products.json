@@ -1,0 +1,40 @@
+{
+    "Products":[
+      {
+          "Aloevera Soap":{
+            "Description":"This is a soap which is very good with aloevera.",
+            "Category":"Body Care",
+            "Price":100,
+            "Rating":5,
+            "Stock":300
+           }
+    },
+      {
+          "Herbal Face Wash":{
+            "Description":"This is an amazing Face wash which is very good for your skin.",
+            "Category":"Body Care",
+            "Price":220,
+            "Rating":4.5,
+            "Stock":250
+            }
+    },
+      {
+          "Apples":{
+                "Description":"Amazing Apples directly from farm to your home.",
+                "Category":"Fruits and Vegetables",
+                "Price":120,
+                "Rating":4,
+                "Stock":150
+            }
+        },
+      {
+          "Organic Cabbage":{
+                "Description":"Organic Cabbage directly from farm to your home, without any preservatives or pesticides.",
+                "Category":"Fruits and Vegetables",
+                "Price":40,
+                "Rating":4.2,
+                "Stock":170
+            }
+        }
+    ]
+}
